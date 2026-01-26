@@ -22,7 +22,7 @@ I'm a passionate developer focused on building practical solutions with Python, 
 - 🌱 Learning **Advanced Python, Machine Learning & Data Science**
 - 💡 Exploring **LLMs, Prompt Engineering & AI Applications**
 - 📊 Building **Data Dashboards & Analytics Tools**
-- 🎯 Goal: Master **Full Stack Development with AI Integration**
+- 🎯 Goal: **Become a Professional Data Scientist & ML Engineer**
 - 📫 Reach me: **sayedmohammadhamza45@gmail.com**
 
 ---
