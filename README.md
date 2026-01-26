@@ -156,20 +156,21 @@ Special project for Princess Day
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayedcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+  
+![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayedcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Sayed%20Hamza%27s%20GitHub%20Stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayedcodes&theme=tokyonight&hide_border=true" alt="Sayedcodes" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayedcodes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sayedcodes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
