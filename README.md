@@ -164,24 +164,12 @@ Special project for Princess Day
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayedcodes&theme=tokyonight&hide_border=true" alt="Sayedcodes" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayedcodes&theme=tokyo-night&hide_border=true" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayedcodes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sayedcodes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -247,16 +235,6 @@ class SayedHamza:
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Sayedcodes/Sayedcodes/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
