@@ -120,7 +120,7 @@ Excel-based sales analytics for UK market
 </td>
 <td width="50%">
 
-### 🏠 [House Price Prediction](https://github.com/Sayedcodes/houseprice)
+### 🏠 [House Price Prediction](https://github.com/Sayedcodes/House-price-prediction)
 ML model for real estate price prediction
 - **Tech**: Python, Jupyter, Scikit-learn
 - **Model**: Regression analysis
