@@ -129,26 +129,6 @@ ML model for real estate price prediction
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-### 🔓 [ChatGPT DAN](https://github.com/Sayedcodes/ChatGPT_DAN)
-Collection of ChatGPT jailbreak prompts
-- **Focus**: Prompt engineering, AI exploration
-- **Topics**: GPT-4, GPT-3.5, OpenAI
-- **Research**: AI limitations & capabilities
-
-</td>
-<td width="50%">
-
-### 💝 [My Princess](https://github.com/Sayedcodes/My-Princess)
-Special project for Princess Day
-- **Tech**: HTML, CSS
-- **Type**: Creative web project
-- **Purpose**: Personal celebration website
-
-</td>
-</tr>
 </table>
 
 ---
