@@ -78,7 +78,7 @@ Mini Bank Management System built with Python
 </td>
 <td width="50%">
 
-### 🛒 [Shopping Cart System](https://github.com/Sayedcodes/Shoping-Cart-Management-System)
+### 🛒 [Shopping Cart System](https://github.com/Sayedcodes/Shopping-Cart-Management-System)
 Interactive e-commerce shopping cart with Streamlit
 - **Tech**: Python, Streamlit
 - **Features**: Product catalog, cart management, checkout
